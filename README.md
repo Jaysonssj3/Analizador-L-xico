@@ -1,6 +1,3 @@
-# Analizador-L-xico
-Aqui está el analizador léxico de la tarea 3 de la materia Compiladores
-
 # Analizador Léxico (FLEX + Python)
 
 Este repositorio contiene el código fuente y el ejecutable de un **Analizador Léxico** desarrollado mediante una arquitectura desacoplada. El proyecto sirve como la primera fase de un compilador, encargándose de leer un flujo de caracteres, agruparlos en lexemas y producir tokens categorizados.
